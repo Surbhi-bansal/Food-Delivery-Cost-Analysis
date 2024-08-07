@@ -45,7 +45,3 @@ Cost Distribution: Major cost components include delivery fees, payment processi
 Profit Analysis: Insights into profitability by calculating and analyzing overall profit margins.
 Customer Behavior Insights: Understanding payment method preferences and delivery fee distributions.
 
-Customer Segmentation: Identifying frequent customers and analyzing churn.
-Cost and Profitability Analysis: Cost per order and order profitability assessment.
-Predictive Modeling and Optimization: Sales forecasting, churn prediction, and route optimization.
-Advanced Visualization and Integration: Interactive dashboards, geospatial analysis, and integration with external data sources.
